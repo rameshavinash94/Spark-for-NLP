@@ -4,4 +4,4 @@
 
 **Paper Title:** _Spark NLP: Natural Language Understanding at Scale_
 
-**Paper Link:** _https://arxiv.org/pdf/2010.15036.pdf_
+**Paper Link:** _https://arxiv.org/pdf/2101.10848.pdf_
